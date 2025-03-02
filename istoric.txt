@@ -1,0 +1,4 @@
+bratVO: controlul servomotoarelor folosind slider-uri
+bratV1: afisarea pozitiei servomotoarelor in browser 
+bratV2: implementarea unui buton de OFF care sa duca servo-ul intr-o pozitie de baza
+bratV3: la pornire servo-ul sa stea in aceeasi pozitie+ limitare unghiuri servo gheara
